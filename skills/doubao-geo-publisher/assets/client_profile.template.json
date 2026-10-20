@@ -1,0 +1,30 @@
+{
+  "client_id": "",
+  "is_demo": false,
+  "client_stage": "",
+  "objectives": [],
+  "conversion_goal": "",
+  "target_customers": [],
+  "brand_name": "",
+  "brand_short": "",
+  "industry": "",
+  "business_type": "",
+  "service_area": [],
+  "core_services": [],
+  "core_products": [],
+  "customer_language": [],
+  "competitors": [],
+  "channels": [],
+  "content_assets": [],
+  "eeat": {
+    "expertise": [],
+    "experience": [],
+    "authority": [],
+    "trust": []
+  },
+  "verified_sources": [],
+  "compliance": {
+    "industry_sensitivity": "",
+    "notes": []
+  }
+}

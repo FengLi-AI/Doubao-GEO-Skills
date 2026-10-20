@@ -1,0 +1,68 @@
+{
+  "client_id": "demo-local-001",
+  "is_demo": true,
+  "client_stage": "cold_start",
+  "brand_name": "演示家居服务（虚构）",
+  "brand_short": "演示家居",
+  "industry": "家居服务",
+  "business_type": "local_b2c",
+  "objectives": [
+    "演示业务查询内容规划"
+  ],
+  "conversion_goal": "演示咨询路径",
+  "target_customers": [
+    "演示市需要家居清洁服务的家庭"
+  ],
+  "primary_city": "演示市",
+  "service_area": [
+    "演示市"
+  ],
+  "core_services": [
+    "家庭保洁",
+    "开荒保洁"
+  ],
+  "core_products": [],
+  "customer_language": [
+    "演示市家庭保洁怎么选"
+  ],
+  "competitors": [
+    "对照服务甲（虚构）"
+  ],
+  "channels": [
+    "toutiao",
+    "sohu",
+    "zhihu",
+    "36kr"
+  ],
+  "eeat": {
+    "expertise": [
+      "演示服务范围表，不代表真实资质"
+    ],
+    "experience": [],
+    "authority": [],
+    "trust": [
+      "演示报价与验收清单，不含真实客户评价"
+    ]
+  },
+  "verified_sources": [
+    {
+      "source": "虚构服务资料",
+      "date": "",
+      "fact": "本例设定提供家庭保洁和开荒保洁。",
+      "evidence_path": "examples/local-service/evidence.md",
+      "status": "synthetic"
+    }
+  ],
+  "content_assets": [
+    "虚构服务范围说明"
+  ],
+  "brand_terms": [
+    "演示家居服务（虚构）"
+  ],
+  "compliance": {
+    "industry_sensitivity": "general",
+    "notes": [
+      "全部材料仅用于离线演示"
+    ]
+  }
+}

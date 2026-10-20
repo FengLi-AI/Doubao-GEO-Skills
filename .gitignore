@@ -1,0 +1,22 @@
+# Local customer data and generated artifacts
+/work/
+/client-work/
+/private/
+/.local/
+/outputs/
+.env
+.env.*
+!.env.example
+*auth*.json
+*storage-state*.json
+*storageState*.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.DS_Store
+__MACOSX/
+._*
+*.log

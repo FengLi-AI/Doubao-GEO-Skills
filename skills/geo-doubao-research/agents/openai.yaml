@@ -1,0 +1,4 @@
+interface:
+  display_name: "豆包 GEO 研究"
+  short_description: "基于客户资料与来源组织豆包 GEO 研究，保留人工复核与真实效果边界"
+  default_prompt: "使用 $geo-doubao-research 处理当前材料，先读取已有资料，只向用户询问本次任务缺少的客户信息与来源，等待必要信息补齐后继续，不用示例代填。"
